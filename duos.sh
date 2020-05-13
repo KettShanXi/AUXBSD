@@ -1,3 +1,3 @@
 sudo apt update && sudo apt upgrade
 
-git clone 
+git clone https://github.com/Ubunbet/AUXBSD.git
